@@ -16,5 +16,15 @@
     "SublimeLinter-rubocop",
     "BracketHighlighter",
     "Color Highlight"
-  ]
+  ],
+  "bootstrapped": true,
+  "in_process_packages":
+  [
+    "A File Icon",
+    "AdvancedNewFile",
+    "Babel",
+    "BracketHighlighter",
+    "MagicPython",
+    "SublimeLinter",
+  ],
 }
